@@ -18,5 +18,5 @@ dsa-template/
 └─ .gitignore
 
 ## How to run
-```bash
+
 python src/solutions/example.py
