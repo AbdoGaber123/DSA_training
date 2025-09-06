@@ -1,4 +1,3 @@
-# dsa-template
 # DSA Training Template
 
 This repository is a template for solving Data Structures & Algorithms (DSA) problems.
