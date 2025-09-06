@@ -7,10 +7,6 @@ This repository is a template for solving Data Structures & Algorithms (DSA) pro
 - `tests/` : add test cases
 - `requirements.txt` : Python dependencies
 
-## How to run
-```bash
-python src/solutions/example.py
-
 dsa-template/
 ├─ src/
 │  └─ solutions/       # place your problem solutions
@@ -19,3 +15,7 @@ dsa-template/
 ├─ README.md
 ├─ requirements.txt
 └─ .gitignore
+
+## How to run
+```bash
+python src/solutions/example.py
