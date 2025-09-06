@@ -3,11 +3,11 @@
 This repository is a template for solving Data Structures & Algorithms (DSA) problems.
 
 ## Structure
-- `src/solutions/` : store each problem solution here
-- `tests/` : add test cases
-- `requirements.txt` : Python dependencies
+- `src/solutions/` : store each problem solution here  
+- `tests/` : add test cases  
+- `requirements.txt` : Python dependencies  
 
-## 
+```bash
 dsa-template/
 ├─ src/
 │  └─ solutions/       # place your problem solutions
